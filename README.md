@@ -13,9 +13,4 @@ Proje için kullanılan veri seti [Fashion-MNIST](https://github.com/zalandorese
 ## Model Eğitimi
 
 
-## Modelin Kullanımı
 
-Eğitilen modeli kullanarak giysi sınıflandırması yapmak için `predict.py` script'ini kullanabilirsiniz. Örnek kullanım:
-
-```bash
-python predict.py path/to/image.jpg
