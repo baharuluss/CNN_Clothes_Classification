@@ -10,7 +10,7 @@ Bu proje, giysi sınıflandırması yapabilen bir CNN modelini oluşturmayı ama
 
 Proje için kullanılan veri seti [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) veri setidir. Bu veri seti, 10 farklı giysi sınıfından oluşan gri tonlu görüntüler içermektedir.
 
-## Model Eğitimi
+
 
 
 
